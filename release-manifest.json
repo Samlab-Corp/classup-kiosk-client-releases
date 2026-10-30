@@ -1,0 +1,16 @@
+{
+  "appVersion": "1.15.10-beta.1",
+  "guardianVersion": "0.4.4",
+  "guardianSha256": "fe3b41688d258933aaf0a98806100c958a73300080d167ec9767462a32aabd06",
+  "guardianBytes": 2051584,
+  "installer": "ClassUp-Setup-1.15.10-beta.1.exe",
+  "installerBytes": 88527732,
+  "installerSha256": "c56bc879e24269c9871f866856aaddf982c127cad416f8be961701f4a2d3661a",
+  "guardianSource": "https://github.com/Samlab-Corp/samlab-guardian/commit/385d5b7419995a755f8aafa40a4f9ee1559e77b7",
+  "artifactInstaller": "ClassUp Setup 1.15.10-beta.1.exe",
+  "sourceRepository": "Samlab-Corp/classup-kiosk-client",
+  "sourceCommit": "4115fea8265946efe17fdb5f76cd39b3e6cfea27",
+  "buildRun": "41009655727",
+  "channel": "beta",
+  "prerelease": true
+}
